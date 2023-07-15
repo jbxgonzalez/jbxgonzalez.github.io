@@ -11,7 +11,7 @@
 *
 * ======================================================= */
 body {
-  font-family: "Libre Franklin", Arial, sans-serif;
+  font-family: "Chivo", Arial, sans-serif;
   font-weight: 400;
   font-size: 14px;
   line-height: 1.7;
@@ -63,7 +63,7 @@ p {
 
 h1, h2, h3, h4, h5, h6, figure {
   color: #343E47;
-  font-family: "Old Standard TT", serif;
+  font-family: "Chivo", serif;
   font-weight: 400;
   margin: 0 0 20px 0;
 }
@@ -122,7 +122,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .qbstp-nav #qbstp-logo a span {
   display: block;
-  font-family: "Libre Franklin", Arial, sans-serif;
+  font-family: "Chivo", Arial, sans-serif;
   font-size: 13px;
   color: #768593;
 }
@@ -139,7 +139,7 @@ h1, h2, h3, h4, h5, h6, figure {
   margin: 0 0 0 0;
 }
 .qbstp-nav ul li {
-  font-family: "Libre Franklin", Arial, sans-serif;
+  font-family: "Chivo", Arial, sans-serif;
   padding: 0;
   margin: 0;
   list-style: none;
@@ -707,7 +707,7 @@ input[type="text"] {
   margin-bottom: 30px;
 }
 .form-group .btn-modify {
-  font-family: "Old Standard TT", serif;
+  font-family: "Chivo", serif;
   text-transform: uppercase;
   letter-spacing: 1px;
   font-weight: 700;
@@ -752,7 +752,7 @@ input[type="text"] {
   margin-bottom: 20px;
   line-height: 1.5;
   font-weight: 700;
-  font-family: "Old Standard TT", serif;
+  font-family: "Chivo", serif;
   letter-spacing: 1px;
   text-transform: uppercase;
   color: #000;
@@ -1030,7 +1030,7 @@ input[type="text"] {
 .btn {
   margin-right: 4px;
   margin-bottom: 4px;
-  font-family: "Libre Franklin", Arial, sans-serif;
+  font-family: "Chivo", Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
   -webkit-border-radius: 4px;
@@ -1262,6 +1262,12 @@ input[type="text"] {
 
 .hztl {
     width: 80%;
+    display: block;
+    margin: auto;
+}
+
+.sq {
+    width: 55%;
     display: block;
     margin: auto;
 }
