@@ -113,6 +113,8 @@ h1, h2, h3, h4, h5, h6, figure {
   font-weight: 400;
   font-family: "Chivo";
 }
+
+
 .qbstp-nav #qbstp-logo a {
   margin-bottom: 0;
   padding: 0;
@@ -1315,7 +1317,12 @@ input[type="text"] {
   .text{
     font-size: 0.65em;
   }
-
+  .qbstp-nav #qbstp-logo {
+    font-size: 1.2em;
+  }
+  .qbstp-nav #qbstp-logo a span {
+    font-size: 0.6 em;
+  }
 
 }
 
