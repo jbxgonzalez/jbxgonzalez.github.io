@@ -1297,8 +1297,7 @@ input[type="text"] {
 
 
 .text {
-  padding: 0;
-  margin: 0;
+  width: 80%;
   color: black;
   font-size: 1.35em;
   position: absolute;
