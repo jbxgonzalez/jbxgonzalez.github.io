@@ -1288,6 +1288,7 @@ input[type="text"] {
   opacity: 0;
   transition: .35s ease;
   background-color: #fff;
+  overflow-y: scroll ;
 }
 
 .paco:hover .overlay {
@@ -1296,6 +1297,8 @@ input[type="text"] {
 
 
 .text {
+  padding: 0;
+  margin: 0;
   color: black;
   font-size: 1.35em;
   position: absolute;
@@ -1306,6 +1309,15 @@ input[type="text"] {
   transform: translate(-50%, -50%);
   text-align: center;
   font-family: "Chivo";
+  overflow-y: scroll ;
+}
+
+@media screen and (max-width: 768px) {
+  .text{
+    font-size: 0.65em;
+  }
+
+
 }
 
 .link-txt{
